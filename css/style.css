@@ -5,9 +5,7 @@ header {
 nav{
      background-color: #f5f5f5;
 }
-div{
-     background-color: green;
-}
-aside{
-     background-color: blue;
+footer{
+     background-color: #333;
+     color: #f5f5f5;
 }
